@@ -1,0 +1,35 @@
+<resources>
+
+    <string name="app_name">ViewFinder</string>
+    <string name="menu_settings">Settings</string>
+	
+	<string name="searching_for_device">Searching For Device</string>
+	<string name="device_found">Device Found</string>
+	
+    <string name="title_activity_live_shutter">LiveShutter</string>
+	<string name="title_activity_camera_search">Camera Search</string>
+    <string name="custom_camera">Camera</string>
+    <string name="custom_flash_auto">Flash Auto</string>
+    <string name="custom_flash_off">Flash Off</string>
+    <string name="custom_save_image">Save Image</string>
+    <string name="custom_shutter_landscape">Take Picture</string>
+    <string name="custom_shutter_protrate">Take Picture</string>
+    <string name="resolution"></string>
+    <string name="custom_size_1">1MP</string>
+    <string name="custom_size_2">2MP</string>
+    <string name="custom_size_3">3MP</string>
+    <string name="custom_size_5">5MP</string>
+    <string name="custom_size_8">8MP</string>
+    <string name="custom_size_10">10MP</string>
+    <string name="custom_size_12">12MP</string>
+    <string name="custom_size_14">14MP</string>
+    <string name="custom_size_16">16MP</string>
+    <string name="custom_timer_off">Timer Off</string>
+    <string name="custom_timer_2_sec">2 Second Timer</string>
+    <string name="custom_timer_10_sec">10 Second Timer</string>
+    <string name="custom_zoom_in">Zoom In</string>
+    <string name="custom_zoom_out">Zoom Out</string>
+    <string name="zoom_center_bg"></string>
+    
+
+</resources>
